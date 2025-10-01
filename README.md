@@ -1,5 +1,10 @@
 <img width="200" height="500" alt="choose a photo" src="https://github.com/user-attachments/assets/c9d182fa-cb48-43bd-8a52-37e4028b9229"/>
 
+<img width="200" height="500" alt="choose a photo" src="https://github.com/user-attachments/assets/0001aef3-3b77-43fa-9a03-000ed4cc7f7d"/>
+
+<img width="200" height="500" alt="choose a photo" src="https://github.com/user-attachments/assets/62384bd0-ae96-45ea-afe7-32f2f4b679b0"/>
+
+
 
 
 

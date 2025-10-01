@@ -1,3 +1,15 @@
+![Screenshot_20251001_101955_host exp exponent](https://github.com/user-attachments/assets/c9d182fa-cb48-43bd-8a52-37e4028b9229)
+
+
+
+
+
+
+
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).

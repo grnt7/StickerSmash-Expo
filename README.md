@@ -1,4 +1,4 @@
-![Screenshot_20251001_101955_host exp exponent](https://github.com/user-attachments/assets/c9d182fa-cb48-43bd-8a52-37e4028b9229)
+![Screenshot_20251001_101955_host exp exponent]width="200" height="500" (https://github.com/user-attachments/assets/c9d182fa-cb48-43bd-8a52-37e4028b9229)
 
 
 

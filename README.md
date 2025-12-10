@@ -5,9 +5,25 @@
 
 <img width="200" height="500" alt="choose a photo" src="https://github.com/user-attachments/assets/62384bd0-ae96-45ea-afe7-32f2f4b679b0"/>
 
+Tutorial: Using React Native and Expo
 
 
 
+
+An introduction to a React Native tutorial on how to build a universal app that runs on Android, iOS and the web using Expo.
+
+About React Native and Expo tutorial
+The objective of this tutorial is to get started with Expo and become familiar with the Expo SDK. It'll cover the following topics:
+
+Create an app using the default template with TypeScript enabled
+Implement a two-screen bottom tabs layout with Expo Router
+Break down the app layout and implement it with flexbox
+Use each platform's system UI to select an image from the media library
+Create a sticker modal using the <Modal> and <FlatList> components from React Native
+Add touch gestures to interact with a sticker
+Use third-party libraries to capture a screenshot and save it to the disk
+Handle platform differences between Android, iOS, and web
+Finally, go through the process of configuring a status bar, a splash screen, and an icon to complete the app
 
 
 

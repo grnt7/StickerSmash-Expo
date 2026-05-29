@@ -1,9 +1,9 @@
-<img width="200" height="400" alt="choose a photo" src="https://github.com/user-attachments/assets/c9d182fa-cb48-43bd-8a52-37e4028b9229"/>
+<img width="200" height="430" alt="choose a photo" src="https://github.com/user-attachments/assets/c9d182fa-cb48-43bd-8a52-37e4028b9229"/>
 
-<img width="200" height="400" alt="choose a photo" src="https://github.com/user-attachments/assets/2d81f2f4-31f0-4d88-a725-2730cbb541ca"/>
+<img width="200" height="430" alt="choose a photo" src="https://github.com/user-attachments/assets/2d81f2f4-31f0-4d88-a725-2730cbb541ca"/>
 
 
-<img width="200" height="400" alt="choose a photo" src="https://github.com/user-attachments/assets/62384bd0-ae96-45ea-afe7-32f2f4b679b0"/>
+<img width="200" height="430" alt="choose a photo" src="https://github.com/user-attachments/assets/62384bd0-ae96-45ea-afe7-32f2f4b679b0"/>
 
 Tutorial: Using React Native and Expo
 
